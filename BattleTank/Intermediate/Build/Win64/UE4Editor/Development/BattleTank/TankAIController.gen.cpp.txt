@@ -1,0 +1,44 @@
+E:\unreal repos\Battle Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+D:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\unreal repos\Battle Tank\BattleTank\Source\BattleTank/Public/TankAIController.h
+D:\UE_4.24\Engine\Source\Runtime\AIModule\Classes\AIController.h
+D:\UE_4.24\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
+D:\UE_4.24\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavAreaBase.generated.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavArea.generated.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+d:\ue_4.24\engine\source\runtime\aimodule\classes\AITypes.h
+D:\UE_4.24\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationSystemConfig.generated.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AITypes.generated.h
+D:\UE_4.24\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTaskOwnerInterface.h
+D:\UE_4.24\Engine\Source\Runtime\GameplayTasks\Public\GameplayTaskTypes.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTaskOwnerInterface.generated.h
+D:\UE_4.24\Engine\Source\Runtime\GameplayTasks\Classes\GameplayTask.h
+D:\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakInterfacePtr.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks\GameplayTask.generated.h
+d:\ue_4.24\engine\source\runtime\aimodule\classes\Navigation/PathFollowingComponent.h
+D:\UE_4.24\Engine\Source\Runtime\NavigationSystem\Public\NavigationData.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationDataInterface.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationDataInterface.generated.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem\NavigationData.generated.h
+d:\ue_4.24\engine\source\runtime\aimodule\classes\AIResourceInterface.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIResourceInterface.generated.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/NavMovementComponent.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\AI/Navigation/PathFollowingAgentInterface.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PathFollowingAgentInterface.generated.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavMovementComponent.generated.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\PathFollowingComponent.generated.h
+d:\ue_4.24\engine\source\runtime\aimodule\classes\Perception/AIPerceptionListenerInterface.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIPerceptionListenerInterface.generated.h
+d:\ue_4.24\engine\source\runtime\aimodule\classes\GenericTeamAgentInterface.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\GenericTeamAgentInterface.generated.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerDebugSnapshotInterface.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIController.generated.h
+e:\unreal repos\battle tank\battletank\intermediate\build\win64\ue4editor\inc\battletank\TankAIController.generated.h

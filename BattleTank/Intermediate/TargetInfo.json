@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BattleTank",
+			"Path": "E:\\unreal repos\\Battle Tank\\BattleTank\\Source\\BattleTank.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BattleTankEditor",
+			"Path": "E:\\unreal repos\\Battle Tank\\BattleTank\\Source\\BattleTankEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

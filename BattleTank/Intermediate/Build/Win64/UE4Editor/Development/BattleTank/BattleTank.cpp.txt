@@ -1,0 +1,2 @@
+E:\unreal repos\Battle Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+e:\unreal repos\battle tank\battletank\source\battletank\BattleTank.h

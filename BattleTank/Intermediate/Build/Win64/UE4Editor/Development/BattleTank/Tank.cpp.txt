@@ -1,0 +1,13 @@
+E:\unreal repos\Battle Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+E:\unreal repos\Battle Tank\BattleTank\Source\BattleTank\Public\TankBarrel.h
+E:\unreal repos\Battle Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\TankBarrel.generated.h
+E:\unreal repos\Battle Tank\BattleTank\Source\BattleTank\Public\Projectile.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+E:\unreal repos\Battle Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\Projectile.generated.h
+E:\unreal repos\Battle Tank\BattleTank\Source\BattleTank\Public\TankAimingComponent.h
+E:\unreal repos\Battle Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\TankAimingComponent.generated.h
+E:\unreal repos\Battle Tank\BattleTank\Source\BattleTank\Public\Tank.h
+E:\unreal repos\Battle Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\Tank.generated.h

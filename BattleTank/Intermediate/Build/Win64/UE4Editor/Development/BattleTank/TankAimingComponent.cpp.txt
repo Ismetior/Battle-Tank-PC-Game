@@ -1,0 +1,17 @@
+E:\unreal repos\Battle Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/CollisionProfile.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CollisionProfile.generated.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\UE_4.24\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+d:\ue_4.24\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+E:\unreal repos\Battle Tank\BattleTank\Source\BattleTank\Public\TankBarrel.h
+E:\unreal repos\Battle Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\TankBarrel.generated.h
+E:\unreal repos\Battle Tank\BattleTank\Source\BattleTank\Public\TankTurret.h
+E:\unreal repos\Battle Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\TankTurret.generated.h
+E:\unreal repos\Battle Tank\BattleTank\Source\BattleTank\Public\TankAimingComponent.h
+E:\unreal repos\Battle Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank\TankAimingComponent.generated.h

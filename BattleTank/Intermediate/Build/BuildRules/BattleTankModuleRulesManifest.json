@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\unreal repos\\Battle Tank\\BattleTank\\Source\\BattleTank\\BattleTank.Build.cs",
+		"E:\\unreal repos\\Battle Tank\\BattleTank\\Source\\BattleTank.Target.cs",
+		"E:\\unreal repos\\Battle Tank\\BattleTank\\Source\\BattleTankEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.2"
+}
